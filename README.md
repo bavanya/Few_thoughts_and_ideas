@@ -1,4 +1,4 @@
-# Personal_Ideas_for_AI-
+# Personal Ideas For AI
 
 ## 1. Predict if two drafts are written by the same person.
  
