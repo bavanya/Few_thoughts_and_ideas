@@ -18,3 +18,10 @@
    
    How about predicting the artist based on paintings or cartoons etc.
    
+## 2. Language translator from sanskrit to related languages like Hindi.
+
+      **Motivation** -
+      
+      Since most of the original ancient Hindu scriptures like Upanishads and Vedas were written in Sanskrit,
+      Sanskrit to English translation will help understand them. 
+      Though many translated works are available today, few people are interested in following the original scriptures.
