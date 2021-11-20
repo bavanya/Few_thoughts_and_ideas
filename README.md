@@ -1,4 +1,4 @@
-# Personal Ideas For AI
+# Personal Ideas
 
 ## 1. Predict if two drafts are written by the same person.
  
@@ -25,3 +25,5 @@
       Since most of the original ancient Hindu scriptures like Upanishads and Vedas were written in Sanskrit,
       Sanskrit to English translation will help understand them. 
       Though many translated works are available today, few people are interested in following the original scriptures.
+
+## 3. Automated 3-address code generator for programming languages.
