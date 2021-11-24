@@ -1,4 +1,4 @@
-# Personal Ideas
+# Project Ideas
 
 ## 1. Predict if two drafts are written by the same person.
  
@@ -27,3 +27,15 @@
       Though many translated works are available today, few people are interested in following the original scriptures.
 
 ## 3. Automated 3-address code generator for programming languages.
+
+# Questions
+
+## Give your take on these two scenarios:
+
+**Scenario-1** - 
+
+You trained an LSTM model, it's training curve came out to be a horizonal line.
+
+**Scenario-2** - 
+
+You trained an LSTM model, it's training curve has an upward trend.
