@@ -28,6 +28,10 @@
 
 ## 3. Automated 3-address code generator for programming languages.
 
+## 4. Convert image of text to text.
+
+## 5. Extract tables from a pdf.
+
 # Questions
 
 ## 1. Give your take on these two scenarios:
