@@ -28,7 +28,7 @@
 
 ## 3. Automated 3-address code generator for programming languages.
 
-## 4. Convert image of text to text.
+## 4. Convert image of text / speech to text.
 
 ## 5. Extract tables from a pdf.
 
