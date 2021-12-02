@@ -30,7 +30,9 @@
 
 ## 4. Convert image of text / speech to text.
 
-## 5. Extract tables from a pdf.
+## 5. Extract tables from a pdf to excel sheet.
+
+## 6. Suitable title suggester for a given a draft.
 
 # Questions
 
