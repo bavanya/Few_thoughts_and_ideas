@@ -11,3 +11,7 @@ Applications of Hidden Markov Model:
 10. Activity recognition
 11. Sequence classification
 12. Transportation forecasting 
+
+Based on HMM:
+1. Likelihood of a given observed sequence can be computed using the forward algorithm.
+2. The Viterbi algorithm and the posterior-Viterbi algorithm are used for predicting a corresponding hidden sequence.
