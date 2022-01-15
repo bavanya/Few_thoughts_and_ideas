@@ -14,4 +14,6 @@ Applications of Hidden Markov Model:
 
 Based on HMM:
 1. Likelihood of a given observed sequence can be computed using the forward algorithm.
-2. The Viterbi algorithm and the posterior-Viterbi algorithm are used for predicting a corresponding hidden sequence.
+2. The Viterbi algorithm and the posterior-Viterbi algorithm are used for predicting a corresponding hidden sequence for a given observed sequence.
+3. Both the Transition probability matrix and the Emission probability matrix (both the parameters of a HMM) can be trained with the Baum-Welch or
+forward-backward algorithm. 
