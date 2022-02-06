@@ -1,3 +1,14 @@
+# Tips
+
+#### 1. Adding pre-commit hooks to your github project.
+**Follow the below steps: **
+
+a. Add a .pre-commit-config.yaml file to your repo. (I have uploaded in this repo the standard .pre-commit-config.yaml file I use for my python projects.)
+
+b. run pre-commit install. (Incase the terminal doesn't identify the pre-commit command, install it using python3 -m pip install pre-commit)
+
+We are done!! You can commit your changes to your global repo as before except this time, your code will be much more polished.
+
 # Project Ideas
 
 #### 1. Predict if two drafts are written by the same person.
