@@ -1,6 +1,6 @@
 # Project Ideas
 
-## 1. Predict if two drafts are written by the same person.
+#### 1. Predict if two drafts are written by the same person.
  
    **Challenges** - 
    
@@ -18,7 +18,7 @@
    
    How about predicting the artist based on paintings or cartoons etc.
    
-## 2. Language translator from sanskrit to related languages like Hindi.
+#### 2. Language translator from sanskrit to related languages like Hindi.
 
       **Motivation** -
       
@@ -26,17 +26,17 @@
       Sanskrit to English translation will help understand them. 
       Though many translated works are available today, few people are interested in following the original scriptures.
 
-## 3. Automated 3-address code generator for programming languages.
+#### 3. Automated 3-address code generator for programming languages.
 
-## 4. Convert image to text / speech to text.
+#### 4. Convert image to text / speech to text.
 
-## 5. Extract tables from a pdf to excel sheet.
+#### 5. Extract tables from a pdf to excel sheet.
 
-## 6. Suitable title suggester for a given a draft.
+#### 6. Suitable title suggester for a given a draft.
 
 # Questions
 
-## 1. Give your take on these two scenarios:
+#### 1. Give your take on these two scenarios:
 
 **Scenario-1** - 
 
