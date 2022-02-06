@@ -1,6 +1,7 @@
 # Tips
 
 #### 1. Adding pre-commit hooks to your github project.
+
 **Follow the below steps: **
 
 a. Add a .pre-commit-config.yaml file to your repo. (I have uploaded in this repo the standard .pre-commit-config.yaml file I use for my python projects.)
