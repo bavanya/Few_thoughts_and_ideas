@@ -57,3 +57,5 @@ You trained an LSTM model, it's training curve came out to be a horizonal line.
 **Scenario-2** - 
 
 You trained an LSTM model, it's training curve has an upward trend.
+
+#### 2. Elaborate: When you load a web page, your browser first fetches the HTML, and then it goes back and fetches other resources such as stylesheets or images.
